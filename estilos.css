@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+body{
+	
+}
+h1{
+	margin-bottom: 50px;
+    background: black;
+    color: white;
+    padding: 30px 0;
+}
+.contenedor{
+	text-align: center;
+	margin-left: 400px;
+}
+.contenedor table{
+	width: 500px;
+}
+.contenedor table th{
+	background: #ffd400;
+	padding: 10px 0;
+}
